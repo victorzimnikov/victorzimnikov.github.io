@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "HMC5PZD6VP.ru.victorzimnikov.cost",
+            "paths": ["*"]
+        }]
+    }
+}
