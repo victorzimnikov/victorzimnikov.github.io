@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "5HGDH7K36M.ru.pizzaman.application",
+            "paths": ["*"]
+        }]
+    }
+}
