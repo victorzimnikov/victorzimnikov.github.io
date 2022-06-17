@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrrid"]=self["webpackChunkfrrid"]||[]).push([[93],{9040:function(r,e,n){function t(r,e,n,t,u,i){return"ListPage"}n.r(e),n.d(e,{default:function(){return s}});var u={name:"ListView"},i=n(89);const f=(0,i.Z)(u,[["render",t]]);var s=f}}]);
+//# sourceMappingURL=list.0ecfb37a.js.map
