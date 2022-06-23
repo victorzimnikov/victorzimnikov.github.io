@@ -1,63 +1,130 @@
 {
   "1": {
     "id": 1,
-    "name": "TECH22",
-    "createdAt": "2005-08-09T18:31:42+03:30",
-    "updatedAt": "2005-08-09T18:31:42+03:30",
-    "status": "checked",
-    "type": "draft",
+    "name": "TECH22-0099",
+    "savedAt": "2005-08-09T18:31:42+03:30",
+    "status": "draft",
+    "type": "tech",
     "forms": {
       "general": {
-        "russianInformation": "Информация на русском языке",
-        "englishInformation": "Информация на английском языке"
+        "information": {
+          "russian": "Информация на русском языке",
+          "english": "Информация на английском языке"
+        }
       },
       "authors": {
+        "withOtherAuthors": true,
         "instituteAuthors": [
           {
-            "name": "Иван",
-            "surname": "Иванов",
-            "patronymic": "Иванович",
-            "position": "Лаборант",
-            "percentage": 10,
-            "workplace": "Лаборатория"
+            "id": 1,
+            "creative": 0,
+            "name": {
+              "russian": "Николаева Анна Владимировна",
+              "english": "Nikolaeva Anna Vladimirovna"
+            },
+            "workplace": {
+              "russian": "Институт",
+              "english": "Institute"
+            },
+            "division": {
+              "russian": "Лаборатория",
+              "english": "Laboratory"
+            },
+            "position": {
+              "russian": "Лаборант",
+              "english": "Laboratory assistant"
+            },
+            "isCitizen": true,
+            "otherCitizenship": {
+              "russian": "",
+              "english": ""
+            },
+            "phone": "+79111111111",
+            "email": "mail@example.com",
+            "birthday": "2082-06-21T18:58:13.895+02:00",
+            "registerAddress": {
+              "russian": "Москва",
+              "english": "Moscow"
+            },
+            "postAddress": {
+              "russian": "Калининград",
+              "english": "kaliningrad"
+            },
+            "inn": "123123123123",
+            "passport": {
+              "series": "1234",
+              "number": "123456",
+              "issueDate": "2082-06-21T18:58:13.895+02:00",
+              "divisionCode": "390001",
+              "issued": {
+                "russian": "МВД",
+                "english": "MVD"
+              }
+            }
           }
         ],
-        "otherAuthors": {
-          "attached": true,
-          "list": [
-            {
-              "name": "Иван",
-              "surname": "Иванов",
-              "patronymic": "Иванович",
-              "position": "Лаборант",
-              "percentage": 40,
-              "workplace": "Лаборатория"
+        "otherAuthors": [
+          {
+            "id": 2,
+            "creative": 0,
+            "name": {
+              "russian": "Николаева Анна Владимировна 2",
+              "english": "Nikolaeva Anna Vladimirovna"
+            },
+            "workplace": {
+              "russian": "Институт",
+              "english": "Institute"
+            },
+            "division": {
+              "russian": "Лаборатория",
+              "english": "Laboratory"
+            },
+            "position": {
+              "russian": "Лаборант",
+              "english": "Laboratory assistant"
+            },
+            "isCitizen": true,
+            "otherCitizenship": {
+              "russian": "",
+              "english": ""
+            },
+            "phone": "+79111111111",
+            "email": "mail@example.com",
+            "birthday": "2082-06-21T18:58:13.895+02:00",
+            "registerAddress": {
+              "russian": "Москва",
+              "english": "Moscow"
+            },
+            "postAddress": {
+              "russian": "Калининград",
+              "english": "kaliningrad"
+            },
+            "inn": "123123123123",
+            "passport": {
+              "series": "1234",
+              "number": "123456",
+              "issueDate": "2082-06-21T18:58:13.895+02:00",
+              "divisionCode": "390001",
+              "issued": {
+                "russian": "МВД",
+                "english": "MVD"
+              }
             }
-          ]
-        }
+          }
+        ]
       },
       "resources": {
-        "external": {
-          "applied": true,
-          "list": [
-            {
-              "name": "Проект с названием",
-              "projectNo": "12345678",
-              "date": "2005-08-09T18:31:42+03:30",
-              "contractNo": "12345678",
-              "fullName": "Какое-то название"
-            }
-          ]
-        },
-        "internal": {
-          "applied": true,
-          "russianInformation": "Ресурсы на русском языке",
-          "englishInformation": "Ресурсы на английском языке"
+        "usedExternalResources": false,
+        "usedInternalResources": true,
+        "externalResources": [],
+        "internalResources": {
+          "russian": "Ресурсы на русском языке",
+          "english": "Ресурсы на английском языке"
         }
       },
-      "keyDates": {
-        "implementationDate": "2005-08-09T18:31:42+03:30",
-        "developmentDate": "2005-08-09T18:31:42+03:30"
+      "dates": {
+        "startReleaseDate": "2005-08-09T18:31:42+03:30",
+        "startDevelopmentDate": "2005-08-09T18:31:42+03:30"
       },
       "disclosure": {
         "publishedEarlier": {
@@ -69,240 +136,97 @@
           "date": "2005-08-09T18:31:42+03:30",
           "russianInformation": "Сведения на русском языке",
           "englishInformation": "Сведения на английском языке"
+        },
+        "hasReleaseBefore": true,
+        "releaseBeforeDate": "2005-08-09T18:31:42+03:30",
+        "releaseBeforeInformation": {
+          "russian": "Сведения на русском языке",
+          "english": "Сведения на английском языке"
+        },
+
+        "hasReleasePlaned": true,
+        "releasePlanedDate": "2005-08-09T18:31:42+03:30",
+        "releasePlanedInformation": {
+          "russian": "Сведения на русском языке",
+          "english": "Сведения на английском языке"
+        },
+
+        "hasReleaseThirdParties": false,
+        "releaseThirdPartiesInformation": {
+          "russian": "",
+          "english": ""
         }
       },
       "organizations": {
-        "list": [
+        "organizations": [
           {
-            "name": "Общество с ограниченной ответственностью \"Смарт-Технология\"",
+            "name": {
+              "russian": "Общество с ограниченной ответственностью \"Смарт-Технология\"",
+              "english": "Общество с ограниченной ответственностью \"Смарт-Технология\""
+            },
             "contact": {
-              "position": "Руководитель",
-              "name": "Смирнов А.А.",
-              "email": "contact@gmail.com",
-              "phone": ""
+              "russian": "Руководитель Смирнов А.А. contact@gmail.com",
+              "english": "Руководитель Смирнов А.А. contact@gmail.com"
             }
           }
         ]
       },
       "technology": {
-        "files": [
-          {
-            "id": 1,
-            "name": "Какое-то название файла",
-            "source": "https://example.com/filename.pdf"
-          }
-        ]
-      },
-      "regulation": {
-        "authorsTakePart": true,
-        "assignmentNoRussian": "Номер служебного задания на русском языке",
-        "assignmentNoEnglish": "Номер служебного задания на английском языке",
-        "date": "2005-08-09T18:31:42+03:30"
+        "files": []
       }
     }
   },
-  "2": {
-    "id": 2,
-    "name": "TECH23",
-    "createdAt": "2005-08-09T18:31:42+03:30",
-    "updatedAt": "2005-08-09T18:31:42+03:30",
-    "status": "on-check",
-    "type": "draft",
-    "formType": "tech",
+  "0": {
+    "id": 0,
+    "name": "TECH-DRAFT",
+    "status": "draft",
+    "type": "tech",
     "forms": {
       "general": {
-        "russianInformation": "Информация на русском языке",
-        "englishInformation": "Информация на английском языке"
+        "information": {
+          "russian": "",
+          "english": ""
+        }
       },
       "authors": {
-        "instituteAuthors": [
-          {
-            "name": "Иван",
-            "surname": "Иванов",
-            "patronymic": "Иванович",
-            "position": "Лаборант",
-            "percentage": 10,
-            "workplace": "Лаборатория"
-          }
-        ],
-        "otherAuthors": {
-          "attached": true,
-          "list": [
-            {
-              "name": "Иван",
-              "surname": "Иванов",
-              "patronymic": "Иванович",
-              "position": "Лаборант",
-              "percentage": 40,
-              "workplace": "Лаборатория"
-            }
-          ]
-        }
+        "withOtherAuthors": false,
+        "instituteAuthors": [],
+        "otherAuthors": []
       },
       "resources": {
-        "external": {
-          "applied": true,
-          "list": [
-            {
-              "name": "Проект с названием",
-              "projectNo": "12345678",
-              "date": "2005-08-09T18:31:42+03:30",
-              "contractNo": "12345678",
-              "fullName": "Какое-то название"
-            }
-          ]
-        },
-        "internal": {
-          "applied": true,
-          "russianInformation": "Ресурсы на русском языке",
-          "englishInformation": "Ресурсы на английском языке"
+        "usedExternalResources": false,
+        "usedInternalResources": false,
+        "externalResources": [],
+        "internalResources": {
+          "russian": "",
+          "english": ""
         }
       },
-      "keyDates": {
-        "implementationDate": "2005-08-09T18:31:42+03:30",
-        "developmentDate": "2005-08-09T18:31:42+03:30"
-      },
+      "dates": {},
       "disclosure": {
-        "publishedEarlier": {
-          "date": "2005-08-09T18:31:42+03:30",
-          "russianInformation": "Сведения на русском языке",
-          "englishInformation": "Сведения на английском языке"
+        "hasReleaseBefore": false,
+        "releaseBeforeInformation": {
+          "russian": "",
+          "english": ""
         },
-        "planedPublishing": {
-          "date": "2005-08-09T18:31:42+03:30",
-          "russianInformation": "Сведения на русском языке",
-          "englishInformation": "Сведения на английском языке"
+
+        "hasReleasePlaned": false,
+        "releasePlanedInformation": {
+          "russian": "",
+          "english": ""
+        },
+
+        "hasReleaseThirdParties": false,
+        "releaseThirdPartiesInformation": {
+          "russian": "",
+          "english": ""
         }
       },
       "organizations": {
-        "list": [
-          {
-            "name": "Общество с ограниченной ответственностью \"Смарт-Технология\"",
-            "contact": {
-              "position": "Руководитель",
-              "name": "Смирнов А.А.",
-              "email": "contact@gmail.com",
-              "phone": ""
-            }
-          }
-        ]
+        "organizations": []
       },
       "technology": {
-        "files": [
-          {
-            "id": 1,
-            "name": "Какое-то название файла",
-            "source": "https://example.com/filename.pdf"
-          }
-        ]
-      },
-      "regulation": {
-        "authorsTakePart": true,
-        "assignmentNoRussian": "Номер служебного задания на русском языке",
-        "assignmentNoEnglish": "Номер служебного задания на английском языке",
-        "date": "2005-08-09T18:31:42+03:30"
-      }
-    }
-  },
-  "3": {
-    "id": 3,
-    "name": "TECH24",
-    "createdAt": "2005-08-09T18:31:42+03:30",
-    "updatedAt": "2005-08-09T18:31:42+03:30",
-    "status": "edit",
-    "type": "draft",
-    "forms": {
-      "general": {
-        "russianInformation": "Информация на русском языке",
-        "englishInformation": "Информация на английском языке"
-      },
-      "authors": {
-        "instituteAuthors": [
-          {
-            "name": "Иван",
-            "surname": "Иванов",
-            "patronymic": "Иванович",
-            "position": "Лаборант",
-            "percentage": 10,
-            "workplace": "Лаборатория"
-          }
-        ],
-        "otherAuthors": {
-          "attached": true,
-          "list": [
-            {
-              "name": "Иван",
-              "surname": "Иванов",
-              "patronymic": "Иванович",
-              "position": "Лаборант",
-              "percentage": 40,
-              "workplace": "Лаборатория"
-            }
-          ]
-        }
-      },
-      "resources": {
-        "external": {
-          "applied": true,
-          "list": [
-            {
-              "name": "Проект с названием",
-              "projectNo": "12345678",
-              "date": "2005-08-09T18:31:42+03:30",
-              "contractNo": "12345678",
-              "fullName": "Какое-то название"
-            }
-          ]
-        },
-        "internal": {
-          "applied": true,
-          "russianInformation": "Ресурсы на русском языке",
-          "englishInformation": "Ресурсы на английском языке"
-        }
-      },
-      "keyDates": {
-        "implementationDate": "2005-08-09T18:31:42+03:30",
-        "developmentDate": "2005-08-09T18:31:42+03:30"
-      },
-      "disclosure": {
-        "publishedEarlier": {
-          "date": "2005-08-09T18:31:42+03:30",
-          "russianInformation": "Сведения на русском языке",
-          "englishInformation": "Сведения на английском языке"
-        },
-        "planedPublishing": {
-          "date": "2005-08-09T18:31:42+03:30",
-          "russianInformation": "Сведения на русском языке",
-          "englishInformation": "Сведения на английском языке"
-        }
-      },
-      "organizations": {
-        "list": [
-          {
-            "name": "Общество с ограниченной ответственностью \"Смарт-Технология\"",
-            "contact": {
-              "position": "Руководитель",
-              "name": "Смирнов А.А.",
-              "email": "contact@gmail.com",
-              "phone": ""
-            }
-          }
-        ]
-      },
-      "technology": {
-        "files": [
-          {
-            "id": 1,
-            "name": "Какое-то название файла",
-            "source": "https://example.com/filename.pdf"
-          }
-        ]
-      },
-      "regulation": {
-        "authorsTakePart": true,
-        "assignmentNoRussian": "Номер служебного задания на русском языке",
-        "assignmentNoEnglish": "Номер служебного задания на английском языке",
-        "date": "2005-08-09T18:31:42+03:30"
+        "files": []
       }
     }
   }
