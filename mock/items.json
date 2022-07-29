@@ -1,239 +1,65 @@
 {
-  "1": {
-    "id": 1,
-    "name": "TECH22-0099",
-    "savedAt": "2005-08-09T18:31:42+03:30",
-    "status": "draft",
-    "type": "tech",
-    "forms": {
-      "general": {
-        "information": {
-          "russian": "Информация на русском языке",
-          "english": "Информация на английском языке"
-        }
-      },
-      "authors": {
-        "withOtherAuthors": true,
-        "instituteAuthors": [
-          {
-            "id": 1,
-            "creative": 0,
-            "name": {
-              "russian": "Николаева Анна Владимировна",
-              "english": "Nikolaeva Anna Vladimirovna"
-            },
-            "workplace": {
-              "russian": "Институт",
-              "english": "Institute"
-            },
-            "division": {
-              "russian": "Лаборатория",
-              "english": "Laboratory"
-            },
-            "position": {
-              "russian": "Лаборант",
-              "english": "Laboratory assistant"
-            },
-            "isCitizen": true,
-            "otherCitizenship": {
-              "russian": "",
-              "english": ""
-            },
-            "phone": "+79111111111",
-            "email": "mail@example.com",
-            "birthday": "2082-06-21T18:58:13.895+02:00",
-            "registerAddress": {
-              "russian": "Москва",
-              "english": "Moscow"
-            },
-            "postAddress": {
-              "russian": "Калининград",
-              "english": "kaliningrad"
-            },
-            "inn": "123123123123",
-            "passport": {
-              "series": "1234",
-              "number": "123456",
-              "issueDate": "2082-06-21T18:58:13.895+02:00",
-              "divisionCode": "390001",
-              "issued": {
-                "russian": "МВД",
-                "english": "MVD"
-              }
-            }
-          }
-        ],
-        "otherAuthors": [
-          {
-            "id": 2,
-            "creative": 0,
-            "name": {
-              "russian": "Николаева Анна Владимировна 2",
-              "english": "Nikolaeva Anna Vladimirovna"
-            },
-            "workplace": {
-              "russian": "Институт",
-              "english": "Institute"
-            },
-            "division": {
-              "russian": "Лаборатория",
-              "english": "Laboratory"
-            },
-            "position": {
-              "russian": "Лаборант",
-              "english": "Laboratory assistant"
-            },
-            "isCitizen": true,
-            "otherCitizenship": {
-              "russian": "",
-              "english": ""
-            },
-            "phone": "+79111111111",
-            "email": "mail@example.com",
-            "birthday": "2082-06-21T18:58:13.895+02:00",
-            "registerAddress": {
-              "russian": "Москва",
-              "english": "Moscow"
-            },
-            "postAddress": {
-              "russian": "Калининград",
-              "english": "kaliningrad"
-            },
-            "inn": "123123123123",
-            "passport": {
-              "series": "1234",
-              "number": "123456",
-              "issueDate": "2082-06-21T18:58:13.895+02:00",
-              "divisionCode": "390001",
-              "issued": {
-                "russian": "МВД",
-                "english": "MVD"
-              }
-            }
-          }
-        ]
-      },
-      "resources": {
-        "usedExternalResources": false,
-        "usedInternalResources": true,
-        "externalResources": [],
-        "internalResources": {
-          "russian": "Ресурсы на русском языке",
-          "english": "Ресурсы на английском языке"
-        }
-      },
-      "dates": {
-        "startReleaseDate": "2005-08-09T18:31:42+03:30",
-        "startDevelopmentDate": "2005-08-09T18:31:42+03:30"
-      },
-      "disclosure": {
-        "publishedEarlier": {
-          "date": "2005-08-09T18:31:42+03:30",
-          "russianInformation": "Сведения на русском языке",
-          "englishInformation": "Сведения на английском языке"
-        },
-        "planedPublishing": {
-          "date": "2005-08-09T18:31:42+03:30",
-          "russianInformation": "Сведения на русском языке",
-          "englishInformation": "Сведения на английском языке"
-        },
-        "hasReleaseBefore": true,
-        "releaseBeforeDate": "2005-08-09T18:31:42+03:30",
-        "releaseBeforeInformation": {
-          "russian": "Сведения на русском языке",
-          "english": "Сведения на английском языке"
-        },
-
-        "hasReleasePlaned": true,
-        "releasePlanedDate": "2005-08-09T18:31:42+03:30",
-        "releasePlanedInformation": {
-          "russian": "Сведения на русском языке",
-          "english": "Сведения на английском языке"
-        },
-
-        "hasReleaseThirdParties": false,
-        "releaseThirdPartiesInformation": {
-          "russian": "",
-          "english": ""
-        }
-      },
-      "organizations": {
-        "organizations": [
-          {
-            "name": {
-              "russian": "Общество с ограниченной ответственностью \"Смарт-Технология\"",
-              "english": "Общество с ограниченной ответственностью \"Смарт-Технология\""
-            },
-            "contact": {
-              "russian": "Руководитель Смирнов А.А. contact@gmail.com",
-              "english": "Руководитель Смирнов А.А. contact@gmail.com"
-            }
-          }
-        ]
-      },
-      "technology": {
-        "files": []
-      },
-      "sourceCode": {
-        "files": []
-      }
-    }
-  },
   "0": {
-    "id": 0,
-    "name": "TECH-DRAFT",
-    "status": "draft",
-    "type": "tech",
-    "forms": {
-      "general": {
-        "information": {
-          "russian": "",
-          "english": ""
-        }
-      },
-      "authors": {
-        "withOtherAuthors": false,
-        "instituteAuthors": [],
-        "otherAuthors": []
-      },
-      "resources": {
-        "usedExternalResources": false,
-        "usedInternalResources": false,
-        "externalResources": [],
-        "internalResources": {
-          "russian": "",
-          "english": ""
-        }
-      },
-      "dates": {},
-      "disclosure": {
-        "hasReleaseBefore": false,
-        "releaseBeforeInformation": {
-          "russian": "",
-          "english": ""
-        },
+    "UF_CRM_6_DF_NO": "",
+    "UF_CRM_6_FULL_TITLE": "",
+    "UF_CRM_6_STATUS": "draft",
+    "UF_CRM_6_POLNOYE_NAIMENOVANIE": "",
+    "UF_CRM_6_FORM_TYPE": "tech",
+    "UF_CRM_6_DATE_OF_RECEIPT": "",
+    "UF_CRM_6_CASE_NO": "",
+    "UF_CRM_6_PASSWORD_FOR_THE_PAGE": "",
+    "UF_CRM_6_LINK_TO_DISCLOSURE_FORM": "",
+    "UF_CRM_6_DOCUMENT_SCAN": "",
 
-        "hasReleasePlaned": false,
-        "releasePlanedInformation": {
-          "russian": "",
-          "english": ""
-        },
+    "UF_CRM_6_SUBMITTED_BY": "",
+    "UF_CRM_6_NAPRAVLENO": "",
 
-        "hasReleaseThirdParties": false,
-        "releaseThirdPartiesInformation": {
-          "russian": "",
-          "english": ""
-        }
-      },
-      "organizations": {
-        "organizations": []
-      },
-      "technology": {
-        "files": []
-      },
-      "sourceCode": {
-        "files": []
-      }
-    }
+    "UF_CRM_6_AUTHORS_OF_THE_INSTITUTE": [],
+    "UF_CRM_6_NON_INSTITUTE_AUTHORS": [],
+
+    "UF_CRM_6_EXTERNAL_FUNDING_SOURCES": [],
+    "UF_CRM_6_USE_OF_INSTITUTES_RESOURCES": "",
+    "UF_CRM_6_INSTITUTES_RESOURCES_USED_WHILE_CREATING": "",
+    "UF_CRM_6_ISPOLZOVANNIE_RESURSI_INSTITUTA": "",
+
+    "UF_CRM_6_START_DATE_OF_THE_PROJECT": "",
+    "UF_CRM_6_START_DATE_OF_DEVELOPMENT": "",
+
+    "UF_CRM_6_DISCLOSURE_IN_SCIENTIFIC_PAPERS": "",
+    "UF_CRM_6_DATE_SCIENTIFIC_PUBLICATIONS": "",
+    "UF_CRM_6_INFORMATION_EARLIEST_DISCLOSURE": "",
+    "UF_CRM_6_RASCRITIE_V_NAUCHNIKH_IZDANIYAKH": "",
+
+    "UF_CRM_6_DISCLOSURE_IN_WRITING_TO_THIRD_PARTIES": "",
+    "UF_CRM_6_DATE_THIRD_PARTIES": "",
+    "UF_CRM_6_DESCRIPTION_OF_THE_EARLIEST_DISCLOSURE": "",
+    "UF_CRM_6_RASCRITIE_TRETIM_LITSAM": "",
+
+    "UF_CRM_6_PLANNING_ON_DISCLOSURE": "",
+    "UF_CRM_6_DATE_OF_INTENDED_PUBLICATION": "",
+    "UF_CRM_6_DETAILS_OF_THE_INTENDED_PUBLICATION": "",
+    "UF_CRM_6_SVEDENIYA_O_PREDPOLAGAEMOM_OPUBLIKOVANII": "",
+
+    "UF_CRM_6_INSTEAD_COMMERCIAL_ENTITIES": [],
+    "UF_CRM_6_FILES_DESCRIPTION_TECHNOLOGY": "",
+    "UF_CRM_6_DESCTIPTION_COMPUTER_PROGRAM": "",
+    "UF_CRM_6_OPISANIE_PROGRAMMI_DLYA_EVM": "",
+    "UF_CRM_6_PROGRAMMING_LANGUAGES": "",
+    "UF_CRM_6_YAZIKI_PROGRAMMIROVANIYA": "",
+    "UF_CRM_6_SIZE": "",
+    "UF_CRM_6_UNITS": "",
+    "UF_CRM_6_COMPUTER_PROGRAMM_IS_MODIFICATION": "",
+    "UF_CRM_6_REGISTRATION_NUMBER_NAME_PREVIOUS_VERSION": "",
+    "UF_CRM_6_REGISTRATSIONNIY_NOMER_I_VERSIYA": "",
+    "UF_CRM_6_USED_PERSONAL_DATA": "",
+    "UF_CRM_6_WHAT_PERSONAL_DATA": "",
+    "UF_CRM_6_KAKIE_PERSONALNIE_DANNIE": "",
+    "UF_CRM_6_FOR_WHAT_PURPOSE": "",
+    "UF_CRM_6_DLYA_KAKIKH_TSELEY": "",
+    "UF_CRM_6_SOURSE_CODE": "",
+    "UF_CRM_6_FILES": "",
+
+    "UF_CRM_6_EMAIL": "",
+    "UF_CRM_6_USE_OF_EXTERNAL_SOURCES": ""
   }
 }

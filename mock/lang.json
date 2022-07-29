@@ -1,0 +1,971 @@
+{
+  "ru": {
+    "authForm": {
+      "text": "Форма раскрытия"
+    },
+    "authFormLogIn": {
+      "text": "Войти"
+    },
+    "authFormFootnote": {
+      "text": " Пароль был отправлен на почту в момент создания формы раскрытия. Если вы не получили пароль для входа на страницу, напишите на почту :email",
+      "params": {
+        "email": {
+          "type": "link",
+          "text": "kto@skoltech.ru",
+          "link": "mailto:kto@skoltech.ru"
+        }
+      }
+    },
+    "commonForm": {
+      "text": "Форма раскрытия результата\nинтеллектуальной деятельности"
+    },
+    "commonFormFieldsNotFilled": {
+      "text": "Не заполнено"
+    },
+    "commonFormFieldsNotCompletelyFilled": {
+      "text": "Заполнено не полностью"
+    },
+    "commonFormSendFormCheckbox": {
+      "title": "Нажимая кнопку «Отправить на проверку» вы соглашаетесь на :personalData и подтверждаете, что ознакомились с :skoltech.",
+      "params": {
+        "personalData": {
+          "type": "link",
+          "text": "обработку персональных данных",
+          "link": "http://html.dev.consult-info.ru/skoltech-frrid/master/dist/#/"
+        },
+        "skoltech": {
+          "type": "link",
+          "text": "положением Сколтеха",
+          "link": "http://html.dev.consult-info.ru/skoltech-frrid/master/dist/#/"
+        }
+      }
+    },
+    "commonFormSendFormBtn": {
+      "text": "Отправить на проверку",
+      "prompt": "Кнопка отправки будет доступна, после заполнения всех данных"
+    },
+    "commonFormSendFormModal": {
+      "title": "Общие положения"
+    },
+    "commonFormRusTextFillingError": {
+      "title": "Введите имя на русском языке"
+    },
+    "commonFormEngTextFillingError": {
+      "title": "Введите имя на английском языке"
+    },
+    "commonFormSendFormModalAcceptBtn": {
+      "title": "Принимаю положение"
+    },
+    "commonFormSendFormModalAcceptTextTech": {
+      "text": "1. Авторы создали личным творческим трудом и передали (произвели отчуждение) Институту право на получение патента на Технологию и исключительное право на неё в полном объёме, а Институт принял их.\n2. Право на получение патента на Технологию и исключительное право на неё принадлежит Институту в полном объёме с момента её создания, при условии соответствующей государственной регистрации (как применимо).\n3. Подписывая настоящую Форму раскрытия Авторы подтверждают, достоверность и полноту информации, приведённой в настоящей Форме раскрытия.\n4. Настоящая Форма раскрытия и все отношения, возникающие в связи с ней или из неё, регулируются российским правом.\n5. Настоящая Форма раскрытия вступает в силу с момента её подписания и распространяет действие на отношения сторон, возникшие с момента создания Технологии.\n6. Настоящая Форма раскрытия, подписанная с использованием факсимильного воспроизведения подписи с помощью средств механического или иного копирования либо иного аналога собственноручной подписи и переданная с помощью электронной почты и (или) факсимильной связи, имеет полную юридическую силу, но в дальнейшем должна быть заменена на подлинные экземпляры по требованию любой из сторон.\n7. Настоящая Форма раскрытия составлена в соответствии со ст. 1370, 1371, 1373 ГК РФ и Положением в г. Москва и подписана в 2 (двух) экземплярах, имеющих одинаковую юридическую силу, — по одному для Авторов и Института."
+    },
+    "commonFormSendFormModalAcceptTextSoft": {
+      "text": "1. Авторы создали личным творческим трудом и передали (произвели отчуждение) Институту экземпляр Программы для ЭВМ и исключительное право на неё в полном объёме, а Институт принял их.\n8.2. Исключительное право на Программу для ЭВМ принадлежит Институту в полном объёме с момента её создания.\n3. Авторы дали согласие на обнародование Программы для ЭВМ любым способом как самим Институтом, так и иным третьим лицом с согласия Института.\n4. Авторы управомочили Институт использовать Программу для ЭВМ, а равно разрешать третьим лицам использовать Программу для ЭВМ анонимно.\n5. Авторы согласились с тем, что Институт вправе вносить в Программу для ЭВМ любые изменения, сокращения и дополнения, снабжать Программу для ЭВМ при её использовании иллюстрациями, предисловием, послесловием, комментариями или какими бы то ни было пояснениями.\n6. Подписывая настоящую Форму раскрытия Авторы подтверждают, достоверность и полноту информации, приведённой в настоящей Форме раскрытия.\n7. Настоящая Форма раскрытия и все отношения, возникающие в связи с ней или из неё, регулируются российским правом.\n8. Настоящая Форма раскрытия вступает в силу с момента её подписания и распространяет действие на отношения сторон, возникшие с момента создания Программы для ЭВМ.\n9. Настоящая Форма раскрытия, подписанная с использованием факсимильного воспроизведения подписи с помощью средств механического или иного копирования либо иного аналога собственноручной подписи и переданная с помощью электронной почты и (или) факсимильной связи, имеет полную юридическую силу, но в дальнейшем должна быть заменена на подлинные экземпляры по требованию любой из сторон.\n10. Настоящая Форма раскрытия составлена в соответствии со ст. 1295-1298 ГК РФ и Положением в г. Москва и подписана в 2 (двух) экземплярах, имеющих одинаковую юридическую силу, — по одному для Авторов и Института."
+    },
+    "commonFormSwitcher": {
+      "prompt": "Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem\nIpsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона, а\nтакже реальное распределение букв и пробелов в абзацах, которое не получается при простой\nдубликации «Здесь ваш текст.. Здесь ваш текст.. Здесь ваш текст..»"
+    },
+    "commonFormDraft": {
+      "text": "Черновик"
+    },
+    "commonFormSignet": {
+      "text": "Подписано"
+    },
+    "commonFormRevision": {
+      "text": "На доработке"
+    },
+    "commonFormAccepted": {
+      "text": "Принято"
+    },
+    "commonFormInspection": {
+      "text": "На проверке"
+    },
+    "commonFormModalAdded": {
+      "text": "Добавлено"
+    },
+    "commonFormTableEdit": {
+      "text": "Редактировать"
+    },
+    "commonFormTableDelete": {
+      "text": "Удалить"
+    },
+    "commonFormTableActions": {
+      "text": "Действия"
+    },
+    "commonFormTableTotal": {
+      "text": "Итого",
+      "prompt": "В столбце сумма процентов по всем строкам должна составлять 100 (сто) %"
+    },
+    "commonFormTableTotalError": {
+      "text": "Должно быть 100%"
+    },
+    "commonFormSent": {
+      "text": "Ваша форма отправлена на проверку в КТО\nОжидайте уведомлений на электронную почту"
+    },
+    "commonFormPlaceholderRus": {
+      "text": "Русский текст"
+    },
+    "commonFormPlaceholderEng": {
+      "text": "Английский текст"
+    },
+    "commonFormSaved": {
+      "text": "Сохранено"
+    },
+    "commonFormAuthorAdd": {
+      "text": "Добавить автора"
+    },
+    "commonFormAuthorChange": {
+      "text": "Изменить автора"
+    },
+    "commonFormAnotherAuthorAdd": {
+      "text": "Добавить Иного Автора"
+    },
+    "commonFormOrganizationAdd": {
+      "text": "Добавить организацию"
+    },
+    "commonFormOrganizationChange": {
+      "text": "Изменить организацию"
+    },
+    "commonFormInvolved": {
+      "text": "Привлекалось"
+    },
+    "commonFormNotInvolved": {
+      "text": "Не привлекались"
+    },
+    "commonFormYes": {
+      "text": "Да"
+    },
+    "commonFormNo": {
+      "text": "Нет"
+    },
+    "commonFormAuthorAddSource": {
+      "text": "Добавить источник"
+    },
+    "commonFormAuthorChangeSource": {
+      "text": "Изменить источник"
+    },
+    "commonFormApplied": {
+      "text": "Применялись"
+    },
+    "commonFormNotUsed": {
+      "text": "Не применялись"
+    },
+    "commonFormDownloadFiles": {
+      "text": "Загрузить файлы"
+    },
+    "tabCommon": {
+      "text": "Общее"
+    },
+    "tabCommonTitle": {
+      "text": "Общая информация"
+    },
+    "tabCommonBlkSent": {
+      "text": "Направлено",
+      "prompt": "ФИО"
+    },
+    "tabCommonBlkComputerProgram": {
+      "text": "Программа для ЭВМ",
+      "prompt": "Полное наименование программы для ЭВМ"
+    },
+    "tabCommonBlkTechnology": {
+      "text": "Технология",
+      "prompt": "Полное наименование Технологии"
+    },
+    "tabAuthors": {
+      "text": "Авторы"
+    },
+    "tabAuthorsTitleTech": {
+      "text": "Авторы (изобритатели) технологии"
+    },
+    "tabAuthorsTitleSoft": {
+      "text": "Авторы Программы для ЭВМ"
+    },
+    "tabAuthorsBlkAuthorAddTech": {
+      "text": "Авторы Института",
+      "prompt": "Просим обратить внимание, что автор — это человек, творческим трудом которого была создана Технология. Оказание технической, финансовой, организационной или материальной поддержки не является творческим трудом и не делает лицо, оказавшее такую помощь, Автором.\nВ случае патентования (регистрации) Технологии персональные данные Авторов будут предоставлены патентным поверенным (на основании соглашения о неразглашении) и регистрационным органам.\n"
+    },
+    "tabAuthorsBlkAuthorAddSoft": {
+      "text": "Авторы Института",
+      "prompt": "Просим обратить внимание, что автор — это человек, творческим трудом которого была создана Программа для ЭВМ. Оказание технической, финансовой, организационной или материальной поддержки не является творческим трудом и не делает лицо, оказавшее такую помощь, автором.\nВ случае регистрации Программы для ЭВМ персональные данные авторов будут предоставлены патентным поверенным (на основании соглашения о неразглашении) и регистрационным органам.\n"
+    },
+    "tabAuthorsModalAuthorAddFio": {
+      "text": "ФИО"
+    },
+    "tabAuthorsModalAuthorAddFioWarning": {
+      "text": "Если Автор отсутствует, или в сведениях о нём\nдопущена ошибка, направьте запрос на\n:email",
+      "params": {
+        "email": {
+          "type": "link",
+          "text": "kto@skoltech.ru",
+          "link": "mailto:kto@skoltech.ru"
+        }
+      }
+    },
+    "tabAuthorsModalAuthorAddWork": {
+      "text": "Место работы"
+    },
+    "tabAuthorsModalAuthorAddSubdivision": {
+      "text": "Структурное подразделение"
+    },
+    "tabAuthorsModalAuthorAddJob": {
+      "text": "Должность"
+    },
+    "tabAuthorsModalAuthorAddCitizenship": {
+      "text": "Гражданство"
+    },
+    "tabAuthorsModalAuthorAddCitizenshipRus": {
+      "text": "РФ"
+    },
+    "tabAuthorsModalAuthorAddCitizenshipAnother": {
+      "text": "Другое"
+    },
+    "tabAuthorsModalAuthorAddDateBirth": {
+      "text": "Дата рождения"
+    },
+    "tabAuthorsModalAuthorAddRegisteredAt": {
+      "text": "Зарегистрирован по адресу"
+    },
+    "tabAuthorsModalAuthorAddMailingAddress": {
+      "text": "Почтовый адрес"
+    },
+    "tabAuthorsModalAuthorAddSnils": {
+      "text": "СНИЛС"
+    },
+    "tabAuthorsModalAuthorAddInn": {
+      "text": "ИНН"
+    },
+    "tabAuthorsModalAuthorAddPassport": {
+      "text": "Паспорт"
+    },
+    "tabAuthorsModalAuthorAddPassportSerial": {
+      "text": "Серия"
+    },
+    "tabAuthorsModalAuthorAddPassportNumber": {
+      "text": "Номер"
+    },
+    "tabAuthorsModalAuthorAddPassportDateIssue": {
+      "text": "Дата выдачи"
+    },
+    "tabAuthorsModalAuthorAddPassportDepartmentCode": {
+      "text": "Код подразделения"
+    },
+    "tabAuthorsModalAuthorAddPassportIssuedBy": {
+      "text": "Кем выдано"
+    },
+    "tabAuthorsModalAuthorAddPhone": {
+      "text": "Телефон"
+    },
+    "tabAuthorsModalAuthorAddEmail": {
+      "text": "Электронная почта"
+    },
+    "tabAuthorsBlkOtherAuthorsTech": {
+      "text": "Иные авторы",
+      "prompt": "Укажите в таблице сведения об Авторах, не являющихся Авторами Института ниже. Если в создании Технологии иные Авторы участия не принимали, поставьте отметку «Не привлекались"
+    },
+    "tabAuthorsBlkOtherAuthorsSoft": {
+      "text": "Иные авторы",
+      "prompt": "Укажите в таблице сведения об авторах, не являющихся авторами Института. Если в создании Программы для ЭВМ иные авторы участия не принимали, поставьте отметку «Не привлекались»"
+    },
+    "tabAuthorsBlkInfoAboutCreativeContributionAuthors": {
+      "text": "Сведения о творческом вкладе Авторов",
+      "prompt": "В столбце сумма процентов по всем строкам должна составлять 100 (сто) %"
+    },
+    "tabAuthorsBlkInfoAboutCreativeContributionAuthorsTableJob": {
+      "text": "Наименование Центра (место работы)"
+    },
+    "tabResources": {
+      "text": "Ресурсы"
+    },
+    "tabResourcesTitle": {
+      "text": "Ресурсы"
+    },
+    "tabResourceBlkExternalFundingSourceTech": {
+      "text": "Внешний источник финансирования создания  Технологии",
+      "Desc": "Укажите в таблице ниже сведения о внешних (любых, кроме Института) источниках финансирования. Если при создании Технологии финансирование из внешних источников не осуществлялось, поставьте отметку «Неприменимо».\n Просим обратить внимание на важность точного и полного указания сведений об источниках финансирования (например, о договорах, в рамках которых были предоставлены грант, субсидия, иное финансирование, о проекте, в целях реализации которого они предоставлены, о лицах, их предоставивших и т.п.). Эти сведения будут использованы для установления наличия лиц, обладающих правами на Технологию, а также для определения соответствия Технологии требованиям финансируемого проекта и применимого права.\n"
+    },
+    "tabResourceBlkExternalFundingSourceSoft": {
+      "text": "Внешний источник финансирования создания Программы для ЭВМ",
+      "Desc": "Укажите в таблице ниже сведения о внешних (любых, кроме Института) источниках финансирования и удалите поле «Неприменимо» под таблицей. Если при создании Программы для ЭВМ финансирование из внешних источников не осуществлялось, поставьте отметку «Неприменимо».\n Просим обратить внимание на важность точного и полного указания сведений об источниках финансирования (например, о договорах, в рамках которых были предоставлены грант, субсидия, иное финансирование, о проекте, в целях реализации которого они предоставлены, о лицах, их предоставивших и т.п.). Эти сведения будут использованы для установления наличия лиц, обладающих правами на Программу для ЭВМ, а также для определения соответствия Программы для ЭВМ требованиям финансируемого проекта и применимого права.\n"
+    },
+    "tabResourceModalAddExternalFundingSourceProjectName": {
+      "text": "Название проекта"
+    },
+    "tabResourceModalAddExternalFundingSourceProjectNum": {
+      "text": "Номер проекта"
+    },
+    "tabResourceModalAddExternalFundingSourceAgreementDate": {
+      "text": "Дата договора"
+    },
+    "tabResourceModalAddExternalFundingSourceContractNum": {
+      "text": "Номер договора"
+    },
+    "tabResourceModalAddExternalFundingSourceFullName": {
+      "text": "Полное наименование финансирующего лица"
+    },
+    "tabResourceBlkInstituteResources": {
+      "text": "Использование неденежных (нефинансовых) ресурсов Института",
+      "prompt": "Просим обратить внимание, что под ресурсами Института для целей настоящего пункта понимаются денежные (финансовые), организационные, технические или иные аналогичные ресурсы Института за исключением офисного оборудования, библиотек, офисного программного обеспечения общего назначения, учебников и учебных пособий за исключением таковых, разработанных с использованием финансовых ресурсов, специально выделенных для этого Институтом. "
+    },
+    "tabResourceBlkInstituteResourceQst": {
+      "text": "Какие неденежные (нефинансовые) ресурсы Института были использованы?",
+      "prompt": " Полное наименование. Описание Технологии приведено в Разделе “Технология” далее "
+    },
+    "tabKeyDates": {
+      "text": "Ключевые даты"
+    },
+    "tabKeyDatesTitle": {
+      "text": "Ключевые даты"
+    },
+    "tabKeyDatesBlkProjectStartDateTech": {
+      "text": "Дата начала реализации проекта, в рамках которого разработана Технология",
+      "prompt": "Дата начала исследования предметной области."
+    },
+    "tabKeyDatesBlkProjectStartDateSoft": {
+      "text": "Дата начала реализации проекта, в рамках которого разработана Программа для ЭВМ",
+      "prompt": "Дата начала исследования предметной области."
+    },
+    "tabKeyDatesBlkDevelopStartDateTech": {
+      "text": "Дата начала разработки Технологии",
+      "prompt": "Дата начала практических работ над созданием Технологии."
+    },
+    "tabKeyDatesBlkDevelopStartDateSoft": {
+      "text": "Дата начала разработки Программы для ЭВМ",
+      "prompt": "Дата начала практических работ над созданием Программы для ЭВМ."
+    },
+    "tabDisclosure": {
+      "text": "Раскрытие"
+    },
+    "tabDisclosureTitle": {
+      "text": "Раскрытие"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateTech": {
+      "text": "Информация о раскрытии Технологии до даты подачи настоящей Формы раскрытия"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateSoft": {
+      "text": "Информация о раскрытии Программы для ЭВМ до даты подачи настоящей Формы раскрытия"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateQst": {
+      "text": "Было ли описание Технологии (частично или полностью) ранее опубликовано или направлено для опубликования в таком виде, чтобы специалист в этой области мог понять и создать или использовать эту технологию",
+      "prompt": "Просим указать, было ли описание Технологии (частично или полностью) ранее опубликовано или направлено для опубликования в таком виде, чтобы специалист в этой области мог понять и создать или использовать эту Технологию."
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateDateEarliest": {
+      "text": "Дата самого раннего раскрытия"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateInfoAboutEarliest": {
+      "text": "Сведения о самом раннем раскрытии",
+      "prompt": "В случае, если ответ «Да», просим предоставить дату и описание самого раннего раскрытия, т.е. при каких обстоятельствах, на какой конференции / какому лицу и любую иную релевантную информацию"
+    },
+    "tabDisclosureBlkOrallyWritingThirdParties": {
+      "text": "Раскрытие в устной, в т.ч. на конференциях, или в письменной форме третьим лицам (не являющимся работниками или обучающимися Института)"
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesQstTech": {
+      "text": "Было ли описание Технологии (частично или полностью) ранее опубликовано?",
+      "prompt": "Просим указать, было ли описание Технологии (частично или полностью) ранее опубликовано или направлено для опубликования в таком виде, чтобы специалист в этой области мог понять и создать или использовать эту Технологию"
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesQstSoft": {
+      "text": "Было ли описание Программы для ЭВМ (частично или полностью) ранее опубликовано?",
+      "prompt": "Просим указать, были ли описание Программы для ЭВМ и (или) её исходный код (частично или полностью) ранее опубликованы или направлены для опубликования в таком виде, чтобы специалист в этой области мог понять и создать или использовать эту Программу для ЭВМ."
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesDateEarliest": {
+      "text": "Дата самого раннего раскрытия"
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesInfoAboutEarliest": {
+      "text": "При каких обстоятельствах, на какой конференции/какому лицу, любая иная релевантная информация",
+      "prompt": "В случае, если ответ «Да», просим предоставить сведения о самом раннем раскрытии: название публикации и источника, дату опубликования, ссылку на публикацию."
+    },
+    "tabDisclosureBlkDateIntendedPublication": {
+      "text": "Предполагаемое опубликование и/или устное/письменное раскрытие"
+    },
+    "tabDisclosureBlkDateIntendedPublicDate": {
+      "text": "Дата"
+    },
+    "tabDisclosureBlkDateIntendedPublicOtherInfo": {
+      "text": "Иные сведения"
+    },
+    "tabCommercialOrganizations": {
+      "text": "Комм. организации"
+    },
+    "tabCommercialOrganizationsTitleTech": {
+      "text": "Коммерческие организации, которые могут быть заинтересованы в Технологии",
+      "prompt": "Укажите в таблице ниже сведения о коммерческих организациях, которые могут быть заинтересованы в Технологии."
+    },
+    "tabCommercialOrganizationsTitleSoft": {
+      "text": "Коммерческие организации, которые могут быть заинтересованы в Программе для ЭВМ",
+      "prompt": "Укажите в таблице ниже сведения о коммерческих организациях, которые могут быть заинтересованы в Программе для ЭВМ."
+    },
+    "tabCommercialOrganizationsModalAddNameCompany": {
+      "text": "Наименование организации"
+    },
+    "tabCommercialOrganizationsModalAddOrganizationContact": {
+      "text": "Контактные данные организации"
+    },
+    "tabDesc": {
+      "text": "Описание"
+    },
+    "tabDescTitle": {
+      "text": "Описание Программы для ЭВМ"
+    },
+    "tabDescGeneral": {
+      "text": "Общее описание Программы для ЭВМ, включая область применения и функционал",
+      "prompt": "3-4 абзаца\nОбращаем ваше внимание, что в случае регистрации Программы для ЭВМ её описание будет опубликовано."
+    },
+    "tabDescProgramLanguages": {
+      "text": "Язык(и) программирования"
+    },
+    "tabDescSize": {
+      "text": "Размер Программы для ЭВМ в килобайтах (кБ) или мегабайтах (МБ)"
+    },
+    "tabDescSizeUnits": {
+      "text": "Единицы",
+      "prompt": "Предоставьте, пожалуйста, активную ссылку или отдельный документ c исходным кодом Программы для ЭВМ в виде текста и, если возможно, со скриншотами., а также исполняемый файл Программы для ЭВМ. "
+    },
+    "tabDescSizeUnitKb": {
+      "text": "кБ"
+    },
+    "tabDescSizeUnitMB": {
+      "text": "МБ"
+    },
+    "tabDescBlkOriginalQst": {
+      "text": "Является ли Программа для ЭВМ оригинальной, или модификацией (новой версией) другой программы для ЭВМ?",
+      "prompt": "Если Программа для ЭВМ является модификацией, просим указать регистрационный номер (при наличии) и название предыдущей версии программы для ЭВМ. Если Программа для ЭВМ оригинальна, укажите «Оригинальная»."
+    },
+    "tabDescBlkOriginalQstOriginal": {
+      "text": "Оригинальная"
+    },
+    "tabDescBlkOriginalQstModified": {
+      "text": "Модифицированная"
+    },
+    "tabDescBlkOriginalQstLastVersion": {
+      "text": "Регистрационный номер и название предыдущей верси.",
+      "Desc": "Предоставьте, пожалуйста, активную ссылку или отдельный документ c исходным кодом Программы для ЭВМ в виде текста и, если возможно, со скриншотами., а также исполняемый файл Программы для ЭВМ."
+    },
+    "tabDescBlkPersonalData": {
+      "text": "Персональные данные пользователей Программы для ЭВМ",
+      "Desc": "Персональными данными пользователей является любая информация, относящаяся к прямо или косвенно определённому или определяемому физическому лицу (субъекту персональных данных), к примеру имя, фото- и/или видеоизображения, паспортные данные, адрес, любые идентификационные номера (в том числе, но не ограничиваясь номер налогоплательщика, номер социального страхования, IP-адрес), информация о личной жизни, телефоны, электронная почта, иные контактные данные, данные о состоянии здоровья, данные о биологических и/или физиологических особенностях, данные о местоположении т.п."
+    },
+    "tabDescBlkPersonalDataQst": {
+      "text": "Будут ли использоваться Программой для ЭВМ персональные данные пользователей?"
+    },
+    "tabDescBlkPersonalDataWhichData": {
+      "text": "Какие именно персональные данные пользователей будут использоваться?"
+    },
+    "tabDescBlkPersonalDataForWhat": {
+      "text": "Для каких целей будут использоваться персональные данные пользователей?"
+    },
+    "tabDescFormDownloadFiles": {
+      "text": "Файлы с описанием Программы для ЭВМ, иные материалы",
+      "prompt": "Предоставьте, пожалуйста, активную ссылку или отдельный документ c исходным кодом Программы для ЭВМ в виде текста и, если возможно, со скриншотами., а также исполняемый файл Программы для ЭВМ."
+    },
+    "tabDescFormDownloadFilesFootnote": {
+      "text": "Ограничения по размеру: 100 мб\nФорматы файла: doc, docx, pdf, xls, xlsx, zip, rar, jpg, png"
+    },
+    "tabSource": {
+      "text": "Исходный код"
+    },
+    "tabSourceTitle": {
+      "text": "Исходный код Программы для ЭВМ"
+    },
+    "tabSourceFormDownloadFiles": {
+      "text": "Листинг Программы для ЭВМ"
+    },
+    "tabSourceFormDownloadFilesFootnote": {
+      "text": "Ограничения по размеру: 5 мб\nФорматы файла: doc, docx, pdf"
+    },
+    "tabDescTechnology": {
+      "text": "Технология"
+    },
+    "tabDescTechnologyTitle": {
+      "text": "Описание Технологии",
+      "prompt": "Пожалуйста, предоставьте отдельный файл с полным и подробным описанием Технологии, раскрывающим как минимум:\n1.\tобласть техники, включая список ключевых слов;\n2.\tуровень техники, т.е. технологии, являющиеся аналогами Технологии, совпадающие с ней по назначению и наиболее близкие к ней по технической сущности;\n3.\tнаименования активных участников рынка, использующих технологии, перечисленные в п. 2) выше, при изготовлении товаров, выполнении работ, оказании услуг и т.п.;\n4.\tсовокупность признаков Технологии по сравнению с существующими изобретениями, полезными моделями, промышленными образцами;\n5.\tполное описание Технологии;\n6.\tтехнический результат и коммерческое применение Технологии.\nПри необходимости добавьте дополнительные сведения, графики, чертежи, рисунки и т.п.\nОписание может быть предоставлено как на двух языках — русском и английском, — так и на одном из них по выбору Авторов. Если это не нарушает качество раскрытия, предоставьте описание на русском языке для потенциальной подачи российской или евразийской заявки и/или на английском языке для потенциальной подачи иностранных заявок и заявок по процедуре PCT. В противном случае описание будет переведено на требуемый язык с привлечением платных услуг, предоставляемых аккредитованными юридическими фирмами.\n"
+    },
+    "tabDescTechnologyFormDownloadFiles": {
+      "text": "Файлы с описанием Технологии, иные материалы"
+    },
+    "tabDescTechnologyFormDownloadFilesFootnote": {
+      "text": "Ограничения по размеру: 100 мб\nФорматы файла: doc, docx, pdf, xls, xlsx, zip, rar, jpg, png"
+    }
+  },
+  "en": {
+    "authForm": {
+      "text": "Disclosure form"
+    },
+    "authFormLogIn": {
+      "text": "Log in"
+    },
+    "authFormFootnote": {
+      "text": "The password was sent to the mail at the time the disclosure form was created. If you have not received a password to enter the page, write to the mail :email",
+      "params": {
+        "email": {
+          "type": "link",
+          "text": "kto@skoltech.ru",
+          "link": "mailto:kto@skoltech.ru"
+        }
+      }
+    },
+    "commonForm": {
+      "text": "Result Disclosure Form\nintellectual activity"
+    },
+    "commonFormFieldsNotFilled": {
+      "text": "Not filled"
+    },
+    "commonFormFieldsNotCompletelyFilled": {
+      "text": "Completed incomplete"
+    },
+    "commonFormSendFormCheckbox": {
+      "title": "By clicking the \"Submit for verification\" button, you agree to :personalData and confirm that you have read :skoltech.",
+      "params": {
+        "personalData": {
+          "type": "link",
+          "text": "processing of personal data",
+          "link": "http://html.dev.consult-info.ru/skoltech-frrid/master/dist/#/"
+        },
+        "skoltech": {
+          "type": "link",
+          "text": "position of Skoltech",
+          "link": "http://html.dev.consult-info.ru/skoltech-frrid/master/dist/#/"
+        }
+      }
+    },
+    "commonFormSendFormBtn": {
+      "text": "Submit for review",
+      "prompt": "The submit button will be available after filling in all the data"
+    },
+    "commonFormSendFormModal": {
+      "title": "Miscellaneous"
+    },
+    "commonFormRusTextFillingError": {
+      "title": "Enter a name in Russian"
+    },
+    "commonFormEngTextFillingError": {
+      "title": "Enter name in English"
+    },
+    "commonFormSendFormModalAcceptBtn": {
+      "title": "I accept the position"
+    },
+    "commonFormSendFormModalAcceptTextTech": {
+      "text": "1. The Authors through their own creative labor created and transferred (alienated) to the Institute the right to obtain a patent for the Technology and the exclusive right in it in full scope, and the Institute received them.\n2. The right to obtain a patent for the Technology and the exclusive right in it belongs to the Institute in full scope from the moment of its creation, in case of appropriate state registration (as applicable).\n3. By signing the Disclosure Form, the Authors approve truthfulness and completeness of the information provided herein.\n4. This Disclosure Form and all relations arising in reliance with or from it are governed by Russian law.\n5. This Disclosure Form comes into force from the moment it is signed and extends to the relations of the parties that have arisen since the creation of the Technology.\n6. This Disclosure Form, signed using facsimile reproduction of the signature by means of mechanical or other copying or other analogue of a handwritten signature and transmitted via email and (or) facsimile communication, has full legal force, but in the future must be replaced with original copies by the requirement of either party.\n7. This Disclosure Form is drawn up in accordance with Art. 1370, 1371, 1373 of the CC RF and the Policy in Moscow and signed in 2 (two) copies of equal legal force — one for each Author and the Institute."
+    },
+    "commonFormSendFormModalAcceptTextSoft": {
+      "text": "1. The Authors through their own creative labor created and transferred (alienated) to the Institute a copy of a Computer Program and the exclusive right in it in full scope, and the Institute received them.\n2. The exclusive right in the Computer Program belongs to the Institute in full scope from the moment of its creation.\n3. The Authors gave consent to make the Computer Program public in any way, either by the Institute itself or by another third party with the consent of the Institute.\n4. The Authors entitled the Institute to use the Computer Program, as well as allow third parties to use the Computer Program anonymously.\n5. The Authors agreed that the Institute has the right to make any modifications, abridgements, or additions to the Computer Program, to supply the Computer Program with illustrations, foreword, afterword, comments or any explanations.\n6. By signing the Disclosure Form, the Authors approve truthfulness and completeness of the information provided herein.\n7. This Disclosure Form and all relations arising in reliance with or from it are governed by Russian law.\n8. This Disclosure Form comes into force from the moment it is signed and extends to the relations of the parties that have arisen since the creation of the Computer Program.\n9. This Disclosure Form, signed using facsimile reproduction of the signature by means of mechanical or other copying or other analogue of a handwritten signature and transmitted via email and (or) facsimile communication, has full legal force, but in the future must be replaced with original copies by the requirement of either party.\n10. This Disclosure Form is drawn up in accordance with Art. 1295-1298 of the CC RF and the Policy in Moscow and signed in 2 (two) copies of equal legal force — one for each Author and the Institute."
+    },
+    "commonFormSwitcher": {
+      "text": "It has long been found that when evaluating design and composition, readable text makes it difficult to concentrate. Lorem\nIpsum is used because it provides more or less standard template completion, and\nalso the actual distribution of letters and spaces in paragraphs, which is not obtained with a simple\nduplication of \"Here is your text.. Here is your text.. Here is your text..\""
+    },
+    "commonFormDraft": {
+      "text": "Draft"
+    },
+    "commonFormSignet": {
+      "text": "Signet"
+    },
+    "commonFormRevision": {
+      "text": "Revision"
+    },
+    "commonFormAccepted": {
+      "text": "Accepted"
+    },
+    "commonFormInspection": {
+      "text": "Under review"
+    },
+    "commonFormModalAdded": {
+      "text": "Added"
+    },
+    "commonFormTableEdit": {
+      "text": "Edit"
+    },
+    "commonFormTableDelete": {
+      "text": "Delete"
+    },
+    "commonFormTableActions": {
+      "text": "Actions"
+    },
+    "commonFormTableTotal": {
+      "text": "Total",
+      "prompt": "In the last column, percentages must total to 100 (one hundred) %"
+    },
+    "commonFormTableTotalError": {
+      "text": "Should be 100%"
+    },
+    "commonFormSent": {
+      "text": "Your form has been sent to CTO for review\nExpect email notifications\n"
+    },
+    "commonFormPlaceholderRus": {
+      "text": "Russian text"
+    },
+    "commonFormPlaceholderEng": {
+      "text": "English text"
+    },
+    "commonFormSaved": {
+      "text": "Saved"
+    },
+    "commonFormAuthorAdd": {
+      "text": "Add Author"
+    },
+    "commonFormAnotherAuthorAdd": {
+      "text": "Add Another Author"
+    },
+    "commonFormOrganizationAdd": {
+      "text": "Add organization"
+    },
+    "commonFormOrganizationChange": {
+      "text": "Change Organization"
+    },
+    "commonFormInvolved": {
+      "text": "Attracted"
+    },
+    "commonFormNotInvolved": {
+      "text": "Not involved"
+    },
+    "commonFormYes": {
+      "text": "Yes"
+    },
+    "commonFormNo": {
+      "text": "No"
+    },
+    "commonFormAuthorAddSource": {
+      "text": "Add source"
+    },
+    "commonFormAuthorChangeSource": {
+      "text": "Change source"
+    },
+    "commonFormApplied": {
+      "text": "Applied"
+    },
+    "commonFormNotUsed": {
+      "text": "Not used"
+    },
+    "commonFormDownloadFiles": {
+      "text": "Download files\n"
+    },
+    "tabCommon": {
+      "text": "General"
+    },
+    "tabCommonTitle": {
+      "text": "General Information"
+    },
+    "tabCommonBlkSent": {
+      "text": "Submitted by",
+      "prompt": "Name Surmame"
+    },
+    "tabCommonBlkComputerProgram": {
+      "text": "Computer Program",
+      "prompt": "Full title Computer Program"
+    },
+    "tabCommonBlkTechnology": {
+      "text": "Technology",
+      "prompt": "Full title of the Technology"
+    },
+    "tabAuthors": {
+      "text": "Authors"
+    },
+    "tabAuthorsTitleTech": {
+      "text": "Authors (Inventors) of the Technology"
+    },
+    "tabAuthorsTitleSoft": {
+      "text": "Authors of the Computer Program"
+    },
+    "tabAuthorsBlkAuthorAddTech": {
+      "text": "Authors of the Institute",
+      "prompt": "Please note that author is the person by whose creative labour the Technology has been created. Provision of technical, financial, organizational or material support is not creative labour and does not constitute authorship of the person provided it.\nIn case of the Technology patenting (registration) the Authors’ personal data will be provided to patent attorneys (under a Non-disclosure Agreement) and registration authorities.\n"
+    },
+    "tabAuthorsBlkAuthorAddSoft": {
+      "text": "Authors of the Institute",
+      "prompt": "Please note that author is the person by whose creative labour the Computer Program has been created. Provision of technical, financial, organizational or material support is not creative labour and does not constitute authorship of the person provided it.\nIn case of the Computer Program registration the authors’ personal data will be provided to patent attorneys (under a Non-disclosure Agreement) and registration authorities.\n"
+    },
+    "tabAuthorsModalAuthorAddFio": {
+      "text": "First name, last name"
+    },
+    "tabAuthorsModalAuthorAddFioWarning": {
+      "text": "If the Author is absent, or in the information about him\nan error has been made, send a request to\n:email",
+      "params": {
+        "email": {
+          "type": "link",
+          "text": "kto@skoltech.ru",
+          "link": "mailto:kto@skoltech.ru"
+        }
+      }
+    },
+    "tabAuthorsModalAuthorAddWork": {
+      "text": "Employer"
+    },
+    "tabAuthorsModalAuthorAddSubdivision": {
+      "text": "Subdivision"
+    },
+    "tabAuthorsModalAuthorAddJob": {
+      "text": "Position"
+    },
+    "tabAuthorsModalAuthorAddCitizenship": {
+      "text": "Citizenship"
+    },
+    "tabAuthorsModalAuthorAddCitizenshipRus": {
+      "text": "Russian"
+    },
+    "tabAuthorsModalAuthorAddCitizenshipAnother": {
+      "text": "Other"
+    },
+    "tabAuthorsModalAuthorAddDateBirth": {
+      "text": "Date of birth"
+    },
+    "tabAuthorsModalAuthorAddRegisteredAt": {
+      "text": "Residence address"
+    },
+    "tabAuthorsModalAuthorAddMailingAddress": {
+      "text": "Postal address"
+    },
+    "tabAuthorsModalAuthorAddSnils": {
+      "text": "Personal insurance policy number (SNILS)"
+    },
+    "tabAuthorsModalAuthorAddInn": {
+      "text": "Taxpayer Identification Number (INN)"
+    },
+    "tabAuthorsModalAuthorAddPassport": {
+      "text": "Passport"
+    },
+    "tabAuthorsModalAuthorAddPassportSerial": {
+      "text": "Series"
+    },
+    "tabAuthorsModalAuthorAddPassportNumber": {
+      "text": "Number"
+    },
+    "tabAuthorsModalAuthorAddPassportDateIssue": {
+      "text": "date of issue"
+    },
+    "tabAuthorsModalAuthorAddPassportDepartmentCode": {
+      "text": "Department code"
+    },
+    "tabAuthorsModalAuthorAddPassportIssuedBy": {
+      "text": "Issued by"
+    },
+    "tabAuthorsModalAuthorAddPhone": {
+      "text": "Phone"
+    },
+    "tabAuthorsModalAuthorAddEmail": {
+      "text": "Email"
+    },
+    "tabAuthorsBlkOtherAuthorsTech": {
+      "text": "Non-Institute Authors",
+      "prompt": "Indicate in the table the information about the Authors, who are not the Authors of the Institute below. If other Authors were not involved in the creation of the Technology, mark \"Not involved\"."
+    },
+    "tabAuthorsBlkOtherAuthorsSoft": {
+      "text": "Non-Institute Authors",
+      "prompt": "Fill in the table with information about non-Institute Authors below and remove the “Not Involved” field below the table. If non-Institute Authors did not participate in the creation of the Computer Program, mark \"Not involved\"."
+    },
+    "tabAuthorsBlkInfoAboutCreativeContributionAuthors": {
+      "text": "Information about Authors’ creative contribution",
+      "prompt": "In the last column, percentages must total to 100 (one hundred) %."
+    },
+    "tabAuthorsBlkInfoAboutCreativeContributionAuthorsTableJob": {
+      "text": "Name of the Center (place of work)"
+    },
+    "tabResources": {
+      "text": "Resources"
+    },
+    "tabResourcesTitle": {
+      "text": "Resources"
+    },
+    "tabResourceBlkExternalFundingSourceTech": {
+      "text": "External funding sources of the Technology creation",
+      "Desc": "Indicate in the table below information about external (any other than the Institute) sources of funding. If external funding was not available when the Technology was created, check \"Not Applicable\".\nPlease note that accurate and complete funding sources (e.g., about contracts under which grant, subsidy, other funding was provided, about project for which them were provided, about persons provided them etc.) information is vital. This information will be used to determine any person owning rights in the Technology and to comply with all requirements under funded project and applicable law."
+    },
+    "tabResourceBlkExternalFundingSourceSoft": {
+      "text": "External funding sources of the Computer Program creation",
+      "Desc": "In the table below, fill in the details of external (non-Institute) funding sources and remove the “Not Applicable” field under the table. If during the creation of the Computer Program funding from external sources was not carried out, mark \"Not Applicable\".\nPlease note that accurate and complete funding sources (e.g., about contracts under which grant, subsidy, other funding was provided, about project for which them were provided, about persons provided them etc.) information is vital. This information will be used to determine any person owning rights in the Computer Program and to comply with all requirements under funded project and applicable law."
+    },
+    "tabResourceModalAddExternalFundingSourceProjectName": {
+      "text": "Name of the project"
+    },
+    "tabResourceModalAddExternalFundingSourceProjectNum": {
+      "text": "Number of the project"
+    },
+    "tabResourceModalAddExternalFundingSourceAgreementDate": {
+      "text": "Date of the Contract"
+    },
+    "tabResourceModalAddExternalFundingSourceContractNum": {
+      "text": "Number of the Contract"
+    },
+    "tabResourceModalAddExternalFundingSourceFullName": {
+      "text": "Full name of the sponsor"
+    },
+    "tabResourceBlkInstituteResources": {
+      "text": "Use of non-monetary (non-financial) resources of the Institute",
+      "prompt": "Please note that for the purposes of this paragraph, the resources of the Institute mean monetary (financial), organizational, technical or other similar resources of the Institute, with the exception of office equipment, libraries, general-purpose office software, textbooks and teaching aids, with the exception of those developed using financial resources specially allocated for this purpose by the Institute."
+    },
+    "tabResourceBlkInstituteResourceQst": {
+      "text": "Which of the Institute's resources were used?",
+      "prompt": "If the answer is “Yes” please specify the Institute’s resources used while creating the Technology below (may be filled out in one preferable language)."
+    },
+    "tabKeyDates": {
+      "text": "Milestones"
+    },
+    "tabKeyDatesTitle": {
+      "text": "Milestones"
+    },
+    "tabKeyDatesBlkProjectStartDateTech": {
+      "text": "Start date of the project, within the framework of which the Technology was developed",
+      "prompt": "Date of the start of the domain research."
+    },
+    "tabKeyDatesBlkProjectStartDateSoft": {
+      "text": "Start date of the project, within the framework of which the Computer Program was developed",
+      "prompt": "Date of the start of the domain research."
+    },
+    "tabKeyDatesBlkDevelopStartDateTech": {
+      "text": "Date of conception of the Technology",
+      "prompt": "The date of the beginning of practical work on the creation of the Technology."
+    },
+    "tabKeyDatesBlkDevelopStartDateSoft": {
+      "text": "Date of conception of the Computer Program",
+      "prompt": "The date of the beginning of practical work on the creation of the Computer Program."
+    },
+    "tabDisclosure": {
+      "text": "Disclosure"
+    },
+    "tabDisclosureTitle": {
+      "text": "Disclosure"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateTech": {
+      "text": "Information Disclosure of the Technology prior to the date of the Disclosure Form submission"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateSoft": {
+      "text": "Information Disclosure of the Computer Program prior to the date of the Disclosure Form submission"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateQst": {
+      "text": "Whether a description of the Technology (in part or in full) has been previously published or submitted for publication in such a way that a specialist in this field can understand and create or use this technology",
+      "prompt": "Please indicate whether a description of the Technology (in part or in full) has been previously published or submitted for publication in such a way that a person skilled in the field can understand and create or use this Technology."
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateDateEarliest": {
+      "text": "Date of the earliest disclosure"
+    },
+    "tabDisclosureBlkInfoPriorSubmissionDateInfoAboutEarliest": {
+      "text": "Information about the earliest disclosure",
+      "prompt": "If the answer is “Yes” please provide the date and description of the earliest disclosure, i.e. in what circumstances, at which conference / to what person any other relevant information."
+    },
+    "tabDisclosureBlkOrallyWritingThirdParties": {
+      "text": "Oral disclosure, incl. at conferences, or in writing to third parties (who are not employees or students of the Institute)"
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesQstTech": {
+      "text": "Has a description of the Technology been previously published (in part or in full)",
+      "prompt": "Please specify if the Technology description (in whole or in part) published or send for publishing in a way that a person skilled in this field could understand and to make or use this Technology."
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesQstSoft": {
+      "text": "Has a description of the Computer Program been previously published (in part or in full)?",
+      "prompt": "Please specify if the Computer Program description or the source code (in whole or in part) published or send for publishing in a way that a person skilled in this field could understand and to make or use this Computer Program."
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesDateEarliest": {
+      "text": "Date of the earliest disclosure"
+    },
+    "tabDisclosureBlkOrallyWritingThirdPartiesInfoAboutEarliest": {
+      "text": "Under what circumstances, at which conference/person, any other relevant information",
+      "prompt": "If the answer is “Yes”, please provide information about the earliest disclosure: title of publication and source, date of publication, link to publication."
+    },
+    "tabDisclosureBlkDateIntendedPublication": {
+      "text": "Intended Publication and/or Oral/Written Disclosure"
+    },
+    "tabDisclosureBlkDateIntendedPublicDate": {
+      "text": "Date"
+    },
+    "tabDisclosureBlkDateIntendedPublicOtherInfo": {
+      "text": "Other information"
+    },
+    "tabCommercialOrganizations": {
+      "text": "Comm. organizations"
+    },
+    "tabCommercialOrganizationsTitleTech": {
+      "text": "Commercial entities that may be interested in the Technology",
+      "prompt": "In the table below, fill in the details of commercial entities that may be interested in the Technology."
+    },
+    "tabCommercialOrganizationsTitleSoft": {
+      "text": "Commercial entities that may be interested in the Computer Program",
+      "prompt": "In the table below, fill in the details of commercial entities that may be interested in the Computer Program."
+    },
+    "tabCommercialOrganizationsModalAddNameCompany": {
+      "text": "Name of company"
+    },
+    "tabCommercialOrganizationsModalAddOrganizationContact": {
+      "text": "Organization contact details"
+    },
+    "tabDesc": {
+      "text": "Description"
+    },
+    "tabDescTitle": {
+      "text": "Description of the Computer Program"
+    },
+    "tabDescGeneral": {
+      "text": "General Computer Program description including field of use and functionality",
+      "prompt": "3-4 paragraphs\nPlease note that in case of the Computer Program registration Computer Program description will be published.\n"
+    },
+    "tabDescProgramLanguages": {
+      "text": "Programming language(s)"
+    },
+    "tabDescSize": {
+      "text": "Size of the Computer Program in kilobytes (kB) or megabytes (MB)"
+    },
+    "tabDescSizeUnits": {
+      "text": "Units",
+      "prompt": "Please provide an active link or a separate document with the source code of the Computer Program in the form of text and, if possible, with screenshots, as well as the executable file of the Computer Program."
+    },
+    "tabDescSizeUnitKb": {
+      "text": "KB"
+    },
+    "tabDescSizeUnitMB": {
+      "text": "MB"
+    },
+    "tabDescBlkOriginalQst": {
+      "text": "Is the Computer Program original or modified (new version)?",
+      "prompt": "If the Computer Program is a modified version, please provide registration number (if any) and name of the previous version of the Computer Program. If the Computer Program is original, note “Original."
+    },
+    "tabDescBlkOriginalQstOriginal": {
+      "text": "Original"
+    },
+    "tabDescBlkOriginalQstModified": {
+      "text": "Modified"
+    },
+    "tabDescBlkOriginalQstLastVersion": {
+      "text": "Registration number and name of the previous version.",
+      "Desc": "Please provide an active link or a separate document with the source code of the Computer Program in the form of text and, if possible, with screenshots, as well as the executable file of the Computer Program."
+    },
+    "tabDescBlkPersonalData": {
+      "text": "Personal data of users of the Computer Program",
+      "Desc": "Personal data of users are any information related to a natural person identifiable directly or indirectly (personal date subject), e.g. name, photo and/or video images, passport data, address, any identification numbers (including, but not limited to taxpayer number, social insurance number, IP-address), personal information, phone numbers, e-mails, any other contacts, medical data, data on biological and/or physiological features, location data, etc."
+    },
+    "tabDescBlkPersonalDataQst": {
+      "text": "Are personal data of users of the Computer Program will be used?"
+    },
+    "tabDescBlkPersonalDataWhichData": {
+      "text": "Which exactly personal data of users will be used?"
+    },
+    "tabDescBlkPersonalDataForWhat": {
+      "text": "For which purposes personal data of the users will be used?"
+    },
+    "tabDescFormDownloadFiles": {
+      "text": "Files with descriptions Computer programs, other materials",
+      "prompt": "Please provide an active link or a separate document with the source code of the Computer Program in the form of text and, if possible, with screenshots, as well as the executable file of the Computer Program."
+    },
+    "tabDescFormDownloadFilesFootnote": {
+      "text": "Size limit: 100 mb\nFile formats: doc, docx, pdf, xls, xlsx, zip, rar, jpg, png"
+    },
+    "tabSource": {
+      "text": "Source"
+    },
+    "tabSourceTitle": {
+      "text": "Source code of the Computer Program"
+    },
+    "tabSourceFormDownloadFiles": {
+      "text": "Listing of computer programs"
+    },
+    "tabSourceFormDownloadFilesFootnote": {
+      "text": "Size limit: 5 mb\nFile formats: doc, docx, pdf\n"
+    },
+    "tabDescTechnology": {
+      "text": "Technology"
+    },
+    "tabDescTechnologyTitle": {
+      "text": "Description of the Technology",
+      "prompt": "Please provide a file with a full explicit description of the Technology that shows at least:\n1.\ttechnical field including set of keywords;\n2.\tstate of the art, i.e. technologies analogous to the Technology, that coincide with it in purpose and are closest to it in technical essence;\n3.\tactive participants of the market, that use the technologies mentioned in clause 2) above in the manufacture of goods, performance of work, provision of services, etc.;\n4.\tspecific features of the Technology compare to the existing inventions, utility models, industrial designs;\n5.\texplicit description of the Technology;\n6.\ttechnical result and commercial application.\n7.\tFeel free to add extra information, graphics, diagrams, drawings etc.\n! The description can be provided both in two languages — English and Russian — or in one language of the Authors’ choice. If not violating the quality of the disclosure, submit the description in Russian for potential Eurasian or Russian application, or in English for potential foreign or PCT applications. In other cases, the description will be translated into the required language involving paid services provided by accredited law firms."
+    },
+    "tabDescTechnologyFormDownloadFiles": {
+      "text": "Files with a description of the Technology, other materials."
+    },
+    "tabDescTechnologyFormDownloadFilesFootnote": {
+      "text": "Size limit: 100 mb\nFile formats: doc, docx, pdf, xls, xlsx, zip, rar, jpg, png\n"
+    }
+  }
+}
